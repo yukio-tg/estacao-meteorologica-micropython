@@ -1,6 +1,6 @@
 # Estação meteorológica — firmware MicroPython
 
-**Vídeo técnico:** ainda não há link. Antes de enviar o PDF da disciplina, troque esta linha pela URL do YouTube ou do Google Drive com acesso para qualquer pessoa com o link.
+**Vídeo técnico:** https://youtu.be/aV6OuZGKMI8
 
 Repositório do Artefato 3 (código e documentação técnica aberta). Os arquivos de código são o MicroPython do ESP32: `boot.py`, `main.py` e `ssd1306.py`.
 
